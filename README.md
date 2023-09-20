@@ -4,7 +4,7 @@ Here are some snippets to get started!
 | **Name**                   | **Info**                              | **Example**        |
 |----------------------------|---------------------------------------|--------------------|
 | Flags                      | g=global, I=insensitive               | /cat/gi            |
-| lettets                    | You know letters                      | /dog/              |
+| letters                    | You know letters                      | /dog/              |
 | digits                     | You know digits                       | /12/               |
 | Character Set/Class        | Brackets                              | /[aeiou]/          |
 | Negated Character Set      | Carrot and brackets                   | /[^aeiou]/         |
